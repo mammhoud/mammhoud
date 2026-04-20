@@ -63,7 +63,10 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mammhoud/mammhoud/main/assets/trophies.svg" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mammhoud&theme=tokyonight&no-frame=true&column=4&margin-w=15&_=${Date.now()}">
+    <img src="https://github-profile-trophy.vercel.app/?username=mammhoud&theme=flat&no-frame=true&column=4&margin-w=15&_=${Date.now()}" alt="GitHub Trophies">
+  </picture>
 </div>
 
 ---
