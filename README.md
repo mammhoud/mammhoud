@@ -61,16 +61,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mammhoud&theme=tokyonight&no-frame=true&column=4&margin-w=15&_=${Date.now()}">
-    <img src="https://github-profile-trophy.vercel.app/?username=mammhoud&theme=flat&no-frame=true&column=4&margin-w=15&_=${Date.now()}" alt="GitHub Trophies">
-  </picture>
-</div>
-
----
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mammhoud&theme=tokyo-night&hide_border=true&area=true" />
@@ -78,7 +68,7 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
