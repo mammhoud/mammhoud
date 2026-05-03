@@ -27,7 +27,7 @@
 I’m **Mahmoud Ezzat Moustafa** – a passionate **Full‑Stack Developer** and **Open‑Source Contributor** dedicated to building robust, scalable, and innovative software solutions.  
 
 - 🔭 **What I’m Building**: I actively contribute to **open‑source tools** and design **full‑stack web applications** that tackle real‑world challenges – from intelligent chatbots to enterprise‑grade Django foundations.  
-- 🌱 **What I’m Mastering**: Currently diving deep into **Cloud Computing (AWS & Azure)**, **System Design case studies**, and **Data Engineering** to architect solutions that scale effortlessly.  
+- 🌱 **What I’m Mastering**: Currently diving deep into **Cloud Computing (AWS & Azure)**, **System Design case studies**, **Data Engineering**, and **AI tools** (OpenAI API, Rasa, LangChain, etc.). I’m continuously sharpening my AI abilities through diverse **use‑case projects** – building chatbots, recommendation engines, data‑driven dashboards, and AI‑powered business solutions. This hands‑on approach also fuels my **business development acumen**, enabling me to translate technical innovation into measurable value for startups and enterprises.  
 - 👯 **Let’s Collaborate**: I’m eager to partner on **React, Node.js, or Python projects** – especially initiatives at the intersection of **web technology and the new wave of AI**.  
 - 💬 **Ask Me About**: Python (Django, Flask, data scripting), C#, databases (PostgreSQL, MongoDB), API design, programming language paradigms, and software architecture best practices.  
 - ⚡ **Always Learning**: I stay current with the latest **AI breakthroughs, cybersecurity trends, and CTF write‑ups** – let’s geek out over emerging tech!  
@@ -89,15 +89,18 @@ I’m **Mahmoud Ezzat Moustafa** – a passionate **Full‑Stack Developer** and
 ---
 
 ## 💰 Support My Work
+
+⭐ **Follow me** on [GitHub](https://github.com/mammhoud) and [LinkedIn](https://linkedin.com/in/mammhoud) for the latest projects, articles, and collaboration opportunities.  
+
+For direct inquiries, sponsorships, or partnership discussions, you can reach me at:
+
 <p align="center">
-  <a href="mailto:Mahmoud.Ezzat.Moustafa@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
+  <a href="mailto:Mahmoud.Ezzat.Moustafa@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Mahmoud.Ezzat.Moustafa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
   </a>
-  <br/>
-  <span style="font-size:1.2em; color:#fff; background:#0e75b6; padding:6px 16px; border-radius:8px; margin:10px 0; display:inline-block;">
-    📧 Mahmoud.Ezzat.Moustafa@gmail.com
-  </span>
-  <br/><br/>
+</p>
+
+<p align="center">
   <a href="https://buymeacoffee.com/mammhoud" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
   </a>
