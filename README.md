@@ -27,12 +27,11 @@
 I’m **Mahmoud Ezzat Moustafa** – a passionate **Full‑Stack Developer** and **Open‑Source Contributor** dedicated to building robust, scalable, and innovative software solutions.  
 
 - 🔭 **What I’m Building**: I actively contribute to **open‑source tools** and design **full‑stack web applications** that tackle real‑world challenges – from intelligent chatbots to enterprise‑grade Django foundations.  
-- 🌱 **What I’m Mastering**: Currently diving deep into **Cloud Computing (AWS & Azure)**, **System Design case studies**, **Data Engineering**, and **AI tools** (OpenAI API, Rasa, LangChain, etc.). I’m continuously sharpening my AI abilities through diverse **use‑case projects** – building chatbots, recommendation engines, data‑driven dashboards, and AI‑powered business solutions. This hands‑on approach also fuels my **business development acumen**, enabling me to translate technical innovation into measurable value for startups and enterprises.  
-- 👯 **Let’s Collaborate**: I’m eager to partner on **React, Node.js, or Python projects** – especially initiatives at the intersection of **web technology and the new wave of AI**.  
+- 🌱 **What I’m Mastering**: Currently diving deep into **Cloud Computing & AI Tools**, **System Design case studies**, **Data Engineering**, and **AI tools**. I’m continuously sharpening my AI abilities through diverse **use‑case projects** – building chatbots, recommendation engines, data‑driven dashboards, and AI‑powered business solutions. This hands‑on approach to translate technical innovation into measurable value for startups and enterprises.  
 - 💬 **Ask Me About**: Python (Django, Flask, data scripting), C#, databases (PostgreSQL, MongoDB), API design, programming language paradigms, and software architecture best practices.  
 - ⚡ **Always Learning**: I stay current with the latest **AI breakthroughs, cybersecurity trends, and CTF write‑ups** – let’s geek out over emerging tech!  
 - 🌐 **Professional Portfolio**: Explore my live work, case studies, and full project gallery at **[mammhoud.github.io](https://mammhoud.github.io)**.  
-- 📄 **Business Documents**:  
+- 📄 **Documents**:  
   - 🛒 **Selling Products**: [selling-products.md](./selling-products.md) – overview of products, services, and solutions I offer.  
   - 🤝 **Partners**: [partners.md](./partners.md) – list of collaborators, organizations, and partnership opportunities.  
   - 📝 **Articles & Skills**: [articles.md](./articles.md) – detailed skill descriptions, favorite resources, and articles I’ve written or recommend.
