@@ -34,7 +34,8 @@ I’m **Mahmoud Ezzat Moustafa** – a passionate **Full‑Stack Developer** and
 - 🌐 **Professional Portfolio**: Explore my live work, case studies, and full project gallery at **[mammhoud.github.io](https://mammhoud.github.io)**.  
 - 📄 **Business Documents**:  
   - 🛒 **Selling Products**: [selling-products.md](./selling-products.md) – overview of products, services, and solutions I offer.  
-  - 🤝 **Partners**: [partners.md](./partners.md) – list of collaborators, organizations, and partnership opportunities.
+  - 🤝 **Partners**: [partners.md](./partners.md) – list of collaborators, organizations, and partnership opportunities.  
+  - 📝 **Articles & Skills**: [articles.md](./articles.md) – detailed skill descriptions, favorite resources, and articles I’ve written or recommend.
 
 ---
 
@@ -57,48 +58,6 @@ I’m **Mahmoud Ezzat Moustafa** – a passionate **Full‑Stack Developer** and
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
----
-
-## 🔐 Cybersecurity & Ethical Hacking
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</p>
-
-I’m deeply invested in **cybersecurity research** – tracking the latest vulnerabilities, exploitation techniques, and defense strategies. I regularly participate in **CTF (Capture The Flag) competitions** and continuously sharpen my skills on platforms like TryHackMe.
-
----
-
-## 📂 Featured Repositories – Explore My Work
-
-### 🐍 [django-osoul](https://github.com/mammhoud/django-osoul) *(⭐ 3)*  
-A **pure Django foundation layer** providing reusable models, managers, mixins, utilities, and a clean architecture with strict boundaries enforced by import‑linter. Zero Wagtail, Celery, or django‑rseal dependencies – just a lightning‑fast, `uv`‑ready toolkit for Django developers who value clean code and separation of concerns.
-
-### 🏠 [bayut-website-scrap](https://github.com/mammhoud/bayut-website-scrap) *(⭐ 2)*  
-A comprehensive **web scraping and crawling** project built with **Selenium** to collect property listings, transactions, and related data from Bayut. Features an integrated SQLite database, Django ORM for efficient querying, and modular scripts for PDF scraping, property listings, and transaction data extraction.
-
-### 🤖 [ChatHack](https://github.com/mammhoud/ChatHack) *(⭐ 1)*  
-An **AI‑powered chatbot** web application submitted for the **lablab.me ChatHack AI Hackathon**. Built with deep learning techniques (Rasa), it delivers intelligent conversational experiences. Stack: JavaScript (45.7%), HTML (31.7%), CSS (12.1%), Python (9.2%), and Docker.
-
-### 🌐 [mammhoud.github.io](https://github.com/mammhoud/mammhoud.github.io) *(⭐ 1)*  
-My **professional portfolio website**, designed with **Jekyll**, **Tailwind CSS**, **Bootstrap**, **FlyonUI**, and **Preline UI**. Deployed via GitHub Pages with automated build pipelines, live reload development, and HTML proofing. Visit the live site: [mammhoud.github.io](https://mammhoud.github.io)
-
-### 🚀 [devstart-django](https://github.com/mammhoud/devstart-django)  
-A **production‑ready Django starter template** based on `cookiecutter‑django`. Configured with modern tooling: `hatch` for command management, `uv` for fast dependency resolution, `pre‑commit` hooks, `pytest`, `ruff`, `mypy`, and full Docker support for both local and production environments.
-
-### 📊 [data-engineering](https://github.com/mammhoud/data-engineering) *(⭐ 1)*  
-Coursework and hands‑on exercises from the **Data Engineering Master Class (Sprints.ai)**. Covers data exploration, cleaning, transformation, ingestion, big data solutions (Cloudera), and data visualization. Graduation project: analyzing COVID‑19 data streams with Big Data, Hadoop, and PowerBI.
-
-### 🧠 [AI-Foundation](https://github.com/mammhoud/AI-Foundation)  
-Foundational AI and machine learning notebooks, including decision trees and other Colaboratory exercises. A starting point for exploring AI concepts in Jupyter Notebook format.
-
-### 🎓 [Coursera-IBM-Skills-Network](https://github.com/mammhoud/Coursera-IBM-Skills-Network) *(Archived)*  
-A Django‑based online course application developed as part of the **IBM Developer Skills Network** curriculum. Features an assessment module extensible for various SQL backends (SQLite3, PostgreSQL, MySQL).
 
 ---
 
@@ -131,6 +90,14 @@ A Django‑based online course application developed as part of the **IBM Develo
 
 ## 💰 Support My Work
 <p align="center">
+  <a href="mailto:Mahmoud.Ezzat.Moustafa@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
+  </a>
+  <br/>
+  <span style="font-size:1.2em; color:#fff; background:#0e75b6; padding:6px 16px; border-radius:8px; margin:10px 0; display:inline-block;">
+    📧 Mahmoud.Ezzat.Moustafa@gmail.com
+  </span>
+  <br/><br/>
   <a href="https://buymeacoffee.com/mammhoud" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
   </a>
